@@ -4,7 +4,7 @@ Software tools for MicroStrain sensors.
 
 ## Tools
 
-**[Magnetometer Calibration](link-to-repo)** - Calibration tool for MicroStrain inertial sensors
+**[Magnetometer Calibration](https://github.com/HBK-MicroStrain/microstrain_mag_cal)** - Calibration tool for MicroStrain inertial sensors
 
 ## Support
 
